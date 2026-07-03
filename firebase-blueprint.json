@@ -1,0 +1,15 @@
+{
+  "collections": [
+    {
+      "name": "users",
+      "schema": {
+        "tasks": "array",
+        "expenses": "array",
+        "budgets": "array",
+        "reminders": "array",
+        "notifications": "array",
+        "subscriptionPlan": "string"
+      }
+    }
+  ]
+}

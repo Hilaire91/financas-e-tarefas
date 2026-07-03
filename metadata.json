@@ -1,0 +1,6 @@
+{
+  "name": "Finanças e Tarefas",
+  "description": "SaaS inteligente para organização de tarefas diárias, controle de gastos por categoria, orçamentos personalizados, sugestões de economia por IA e relatórios financeiros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
